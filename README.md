@@ -1,6 +1,6 @@
 <!-- Banner / Greeting -->
 <h1 align="center">Hi 👋, I'm Greg Nathanael</h1>
-<h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 Developer | 🚀 Ai Prompter</h3>
 
 <!-- Typing SVG -->
 <p align="center">
