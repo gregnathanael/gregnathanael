@@ -13,15 +13,15 @@
 
 ## 🔥 About Me
 - 🌱 Currently learning **Web Development & Open Source**
-- 💡 Interested in **JavaScript, AI, and Cloud Tech**
-- 📫 Reach me at **your-email@example.com**
-- ⚡ Fun fact: *I debug with coffee ☕*
+- 💡 Interested in **JavaScript**
+- 📫 Reach me at **gregbudiarto@gmail.com**
+- ⚡ Fun fact: *Ai 50% Brain 50%*
 
 ---
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,python,java,mysql,postgres,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode" />
 </p>
 
 ---
