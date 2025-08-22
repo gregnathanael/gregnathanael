@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Web Development & Open Source**
 - 💡 Interested in **JavaScript**
 - 📫 Reach me at **gregbudiarto@gmail.com**
-- ⚡ Fun fact: *Ai 50% Brain 50%*
+- ⚡ Fun fact: *Ai 51% Brain 49%*
 
 ---
 
