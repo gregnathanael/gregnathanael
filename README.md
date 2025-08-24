@@ -19,7 +19,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,cursor" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode" />
 </p>
 
 ---
