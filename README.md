@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greg Nathanael</h1>
-<h3 align="center">💻 Stundent | 🚀 Ai Prompter</h3>
+<h3 align="center">💻 Stundent</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -19,7 +19,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,claude" />
 </p>
 
 ---
