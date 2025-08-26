@@ -33,7 +33,7 @@
 
 ## 🚀 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gregnathanael&theme=radical" alt="GitHub Streak" />
+  <img padding-bottom: 10px; src="https://streak-stats.demolab.com?user=gregnathanael&theme=radical" alt="GitHub Streak" />
 <img src="https://github.pumbas.net/api/contributions/GregNathanael?bgColour=161B22&borderRadius=20" alt="GregNathanael's GitHub contributions" />
 </p>
 
