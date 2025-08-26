@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gregnathanael/gregnathanael/output/pacman-contribution-graph.svg">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[gregnathanael]/[gregnathanael]/output/pacman-contribution-graph.svg">
 </p>
 
 ---
