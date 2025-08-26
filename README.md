@@ -12,7 +12,6 @@
 ## 🔥 About Me
 - 🌱 Currently learning **Web Development & Open Source**
 - 💡 Interested in **JavaScript**
-- 📫 Reach me at **gregbudiarto@gmail.com**
 - ⚡ Fun fact: *Ai 51% Brain 49%*
 
 ---
