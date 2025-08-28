@@ -34,13 +34,14 @@
 ## 🚀 Streak Stats
 <p align="center">
   <!-- GitHub Streak Badge (theme: radical / dark) -->
-<a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gregnathanael&theme=radical"
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://github-readme-streak-stats-zeta-sepia.vercel.app?user=gregnathanael&theme=radical" 
     alt="GitHub Streak"
-    style="max-width:100%; height:auto; border-radius:8px;"
+    style="max-width:100%; height:auto; border-radius:8px;" 
   />
 </a>
+
 
 <img src="https://github.pumbas.net/api/contributions/GregNathanael?bgColour=161B22&borderRadius=20" alt="GregNathanael's GitHub contributions" />
 </p>
