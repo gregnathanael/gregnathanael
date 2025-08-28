@@ -10,7 +10,7 @@
 ---
 
 ## 🔥 About Me
-- 🌱 Currently learning **Web Development & Open Source**
+- 🌱 Currently learning **Web Development**
 - 💡 Interested in **JavaScript**
 - ⚡ Fun fact: *Ai 51% Brain 49%*
 
