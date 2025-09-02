@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+Coding!;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+Coding+&+Anime!;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,6 +33,7 @@
 
 ## 🚀 Streak Stats
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregnathanael&theme=radical" alt="streak-stats" />
 <img src="https://github.pumbas.net/api/contributions/GregNathanael?bgColour=161B22&borderRadius=20" alt="GregNathanael's GitHub contributions" />
 </p>
 
