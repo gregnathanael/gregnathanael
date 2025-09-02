@@ -33,7 +33,7 @@
 
 ## 🚀 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregnathanael&theme=radical" alt="streak-stats" />
+  <img width=480 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andraangjaya&count_private=true&theme=tokyonight&border_radius=10"/>
 <img src="https://github.pumbas.net/api/contributions/GregNathanael?bgColour=161B22&borderRadius=20" alt="GregNathanael's GitHub contributions" />
 </p>
 
